@@ -16,6 +16,8 @@ Upon Research, mainly YouTube. We have found the following ICs(Components in the
 Some useful YouTube links which provided clarity and a sense of direction on *Requirement 1*https://www.youtube.com/watch?v=PVyAcgYkzDs, https://www.youtube.com/watch?v=6HUs4ERsVkE&t=43s
 
 At this juncture, we shall perform cost and performance analysis of the above-mentioned motor drivers:
+[Motor Driver Selection IC.pdf](https://github.com/user-attachments/files/19388597/Motor.Driver.Selection.IC.pdf)
+
 
 
 **Requirement 2**
