@@ -1,4 +1,2 @@
-# EEE3088F
-Electrical engineering design principles 
+# EEE3088F Micromouse Powersubsystem project
 
-A bit about yourself 
