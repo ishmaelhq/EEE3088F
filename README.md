@@ -1,6 +1,6 @@
 # EEE3088F Micromouse Powersubsystem project
 
-*Requirement 1 as per project deliverables*: 
+**Requirement 1 as per project deliverables:**
 Operate up to 4 motors bidirectionally with the pins available to you (listed in the power pinout
 table). You will need to control 2x brushed DC motors which could each draw 200mA at the
 highest voltage of a 1S1P battery (the battery is further specified in the battery section).
@@ -16,3 +16,6 @@ Upon Research, mainly YouTube. We have found the following ICs(Components in the
 Some useful YouTube links which provided clarity and a sense of direction on *Requirement 1*https://www.youtube.com/watch?v=PVyAcgYkzDs, https://www.youtube.com/watch?v=6HUs4ERsVkE&t=43s
 
 At this juncture, we shall perform cost and performance analysis of the above-mentioned motor drivers:
+
+
+**Requirement 2**
