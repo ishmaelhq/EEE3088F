@@ -11,7 +11,8 @@ highest voltage of a 1S1P battery (the battery is further specified in the batte
 Upon Research, mainly YouTube. We have found the following ICs(Components in the hobby space are mostly affordable hence the researching on YouTube"for lack of a better phrase"):
 1. DRV8834RGER (The datasheet of which shall be attached in this repo)
 2. DRV8837CDSGR (The datasheet of which shall be attached in this repo)
-3. LN298D(The datasheet of which shall be attached in this repo) # Usually needs a heat sink. Less efficient than the other two 
+3. LN298D(The datasheet of which shall be attached in this repo) # Usually needs a heat sink. Less efficient than the other two
+4. TB6612FG (Can also be an interesting alternative)
 Some useful YouTube links which provided clarity and a sense of direction on *Requirement 1*https://www.youtube.com/watch?v=PVyAcgYkzDs, https://www.youtube.com/watch?v=6HUs4ERsVkE&t=43s
 
 At this juncture, we shall perform cost and performance analysis of the above-mentioned motor drivers:
