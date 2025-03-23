@@ -19,5 +19,6 @@ At this juncture, we shall perform cost and performance analysis of the above-me
 [Motor Driver Selection IC.pdf](https://github.com/user-attachments/files/19388597/Motor.Driver.Selection.IC.pdf)
 
 
-
-**Requirement 2**
+** Other Requirements**
+Cost analysis of components to satisfy other requirements: 
+[Componests selection and cost analysis.docx](https://github.com/user-attachments/files/19409208/Componests.selection.and.cost.analysis.docx)
