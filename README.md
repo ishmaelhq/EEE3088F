@@ -23,3 +23,5 @@ At this juncture, we shall perform cost and performance analysis of the above-me
 Cost analysis of components to satisfy other requirements: 
 
 [Componests selection and cost analysis.docx](https://github.com/user-attachments/files/19429474/Componests.selection.and.cost.analysis.docx)
+Revised table
+[Componests selection and cost analysis.docx](https://github.com/user-attachments/files/19621390/Componests.selection.and.cost.analysis.docx)
