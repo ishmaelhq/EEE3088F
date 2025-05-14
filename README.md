@@ -18,8 +18,7 @@ peak current of 2A. The switch needs to shut down 5V and 3V3.
 
 **Breakdown and Analysis of Requirements**
 Requirement 1 Possible solution :
-
-*comments: *Bidirectionally operating the motors can be achieved simply by using the H-bridge circuit, however a IC is more preferable since some have protection measures in case of over-supply of current,since IC's are smaller it means that we'll be ensuring that minimum utilization of space on the PCB. 
+Bidirectionally operating the motors can be achieved simply by using the H-bridge circuit, however a IC is more preferable since some have protection measures in case of over-supply of current,since IC's are smaller it means that we'll be ensuring that minimum utilization of space on the PCB. 
 
 Upon Research, mainly YouTube. We have found the following ICs(Components in the hobby space are mostly affordable hence the researching on YouTube"for lack of a better phrase"):
 1. DRV8834RGER (The datasheet of which shall be attached in this repo)
