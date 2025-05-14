@@ -17,7 +17,7 @@ approximately 600mA ±100mA from the battery perspective.
 peak current of 2A. The switch needs to shut down 5V and 3V3.
 
 **Breakdown and Analysis of Requirements**
-**Requirement 1 as per project deliverables:**
+Requirement 1 as per project deliverables:
 Operate up to 4 motors bidirectionally with the pins available to you (listed in the power pinout
 table). You will need to control 2x brushed DC motors which could each draw 200mA at the
 highest voltage of a 1S1P battery (the battery is further specified in the battery section).
