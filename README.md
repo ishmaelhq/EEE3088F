@@ -34,3 +34,5 @@ Cost analysis of components to satisfy other requirements:
 [Componests selection and cost analysis.docx](https://github.com/user-attachments/files/19429474/Componests.selection.and.cost.analysis.docx)
 Revised table
 [Componests selection and cost analysis.docx](https://github.com/user-attachments/files/19621390/Componests.selection.and.cost.analysis.docx)
+
+PLEASE SEE THE ZIP FILE FOR THE FINAL DESIGN, BOM AND PRODUCTION FILES
